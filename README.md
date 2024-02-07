@@ -1,5 +1,6 @@
 <h1 align="center">Hello! I'm Daniyar</h1>
 <h3 align="center">Junior Python developer from Kazakhstan, KZ</h3>
+<img src="C:\Users\admin\Desktop\svg github" alt="python">
 
 <!--
 **daniyarbat/daniyarbat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
