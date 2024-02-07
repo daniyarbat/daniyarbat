@@ -6,7 +6,7 @@
 </div>
 
 <div>
-  <h3>My stack</h3>
+  <h3>My stack: Languages and tools</h3>
 </div>
 
 <div>
