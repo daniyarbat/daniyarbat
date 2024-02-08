@@ -1,7 +1,7 @@
-<h1 align="">Hello! I'm Daniyar</h1>
-<h3 align="">Junior Python developer from Kazakhstan</h3>
+<h1 align="center">Hello! I'm Daniyar</h1>
+<h3 align="center">Junior Python developer from Kazakhstan</h3>
 
-<div>
+<div align="center">
   <h3>My stack: Languages and tools</h3>
 </div>
 
