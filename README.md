@@ -5,7 +5,7 @@
   <h3>My stack: Languages and tools</h3>
 </div>
 
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-line.svg" title="DRF" alt="DRF" width="50" height="50"/>&nbsp;
