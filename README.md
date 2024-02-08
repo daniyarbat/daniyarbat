@@ -1,8 +1,8 @@
 <h1 align="center">Hello! I'm Daniyar</h1>
-<h3 align="center">Junior Python developer from Kazakhstan</h3>
+<h2 align="center">Junior Python developer from Kazakhstan</h2>
 
 <div align="center">
-  <h3>My stack: Languages and tools</h3>
+  <h2>My stack: Languages and tools</h2>
 </div>
 
 <div align="center">
